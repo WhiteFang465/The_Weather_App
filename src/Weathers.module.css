@@ -1,0 +1,19 @@
+.table {
+    border: gray 2px solid;
+    height: max-content;
+    width: max-content;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    color: goldenrod;
+    /* text-align: justify; */
+
+}
+
+.mainDiv {
+    text-align: center;
+    color: goldenrod;
+}
+.statusDiv{
+    color: red;
+}
