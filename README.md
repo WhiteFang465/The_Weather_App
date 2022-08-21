@@ -4,8 +4,6 @@ As a plus point, you can type the city name in any language and get the weather 
 
 >![Snapshot](https://user-images.githubusercontent.com/87813463/185774653-8355beee-6f45-479a-b321-cbc1da8dd57b.png)
 
-
-
 # Technologies Used
 > - NodeJS
 > - ReactJS
