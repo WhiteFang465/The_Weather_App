@@ -1,4 +1,0 @@
-###
-GET https://api.openweathermap.org/data/2.5/weather?lat=19.075&lon=72&appid=67d65c5ff769684d1241ea04f02c7dd5
-###
-GET https://api.openweathermap.org/geo/1.0/direct?q=montreal,ca&limit=1&appid=67d65c5ff769684d1241ea04f02c7dd5
